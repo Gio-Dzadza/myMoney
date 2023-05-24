@@ -1,4 +1,4 @@
-# **8myMoney**
+# **myMoney**
 
 it's an app let u note and save some transactions u made with Real-time Tracking and Firebase Integration
 
