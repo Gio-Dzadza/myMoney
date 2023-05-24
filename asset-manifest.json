@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gio-Dzadza.github.io/myMoney/static/css/main.14ed3dd6.css",
+    "main.js": "/Gio-Dzadza.github.io/myMoney/static/js/main.0229ef7e.js",
+    "index.html": "/Gio-Dzadza.github.io/myMoney/index.html",
+    "main.14ed3dd6.css.map": "/Gio-Dzadza.github.io/myMoney/static/css/main.14ed3dd6.css.map",
+    "main.0229ef7e.js.map": "/Gio-Dzadza.github.io/myMoney/static/js/main.0229ef7e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14ed3dd6.css",
+    "static/js/main.0229ef7e.js"
+  ]
+}
