@@ -24,3 +24,11 @@
     color: #333;
     text-decoration: none;
 }
+
+
+/*styles for mobile phones: */
+@media only screen and (max-width: 480px) {
+    .navbar{
+        width: 100%;
+    }
+}

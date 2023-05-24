@@ -90,3 +90,31 @@
     font-size: 0.9em;
     cursor: pointer;
 }
+
+
+/*styles for mobile phones: */
+@media only screen and (max-width: 480px) {
+    .container{
+        display: flex;
+        padding: 0px 20px;
+        flex-direction: column-reverse;
+    }
+    .sidebar {
+        padding-left: 0px;
+    }
+    .content {
+        padding-right: 0px;
+    }
+
+    .transactions li{
+        flex-wrap: wrap;
+    }
+}
+
+
+/*styles for tablet screens */
+@media only screen and (min-width: 480px) and (max-width: 1024px) {    
+    .container{
+        padding: 0px 20px;
+    }
+}
